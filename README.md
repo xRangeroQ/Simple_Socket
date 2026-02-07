@@ -1,4 +1,4 @@
-# Simple_Socket
+# Simple SOCKET
 
 A small simple socket converter library
 
@@ -6,7 +6,7 @@ Version -> **0.3.0**
 
 ## About Library and Questions
 
-**What is the PYSOCKETRQ library and what is it for?**
+**What is the Simple SOCKET library and what is it for?**
 
 > This library makes creating Server and Client very easy. It's just a little limited.
 
