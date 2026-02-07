@@ -1,4 +1,4 @@
-# TESTPYSOCKETRQ
+# Simple_Socket
 
 A small simple socket converter library
 
